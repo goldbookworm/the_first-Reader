@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Reader.obj" 
+TO ".\Objects\the_first-Reader" 
+PRINT(".\Listings\the_first-Reader.m51") RAMSIZE(256) 
